@@ -1,6 +1,6 @@
 [# codernasim2003]
 <h1 align="center">Hi Folks 👋, I'm Md Nasim AKhtar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend, JAVA Developer from India</h3>
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
 
@@ -11,6 +11,9 @@
 - 🔭 I’m currently working on **Android Devlopment Music player app**
 
 - 🌱 I’m currently learning **React,js,Kotlin ,Java dsa,Databases**
+- 🔭 I’m currently pursuing Computer Science from  Makaut University, Kolakta.
+
+🌱 I’m learning Data Structures and Algorithms & Full Stack Development.
 
 - 👯 I’m looking to collaborate on **Android Devlopment**
 
@@ -18,7 +21,7 @@
 
 - 💬 Ask me about **React,js,java,C,C++,ETc**
 
-- 📫 How to reach me **Mdnasim259@outlook.com**
+- 📫 How to reach me **Mdnasim259@outlook.com** And You can Also coonnect me on Linkedin 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
