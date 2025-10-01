@@ -15,9 +15,9 @@
 
 🌱 I’m learning Data Structures and Algorithms & Full Stack Development.
 
-- 👯 I’m looking to collaborate on **Android Devlopment**
+- 👯 I’m currently looking to collaborate deeply  on **Full Stack Devlopment**
 
-- 🤝 I’m looking for help with **Android Dev Music player app**
+- 🤝 I’m looking for help with Full Stack developmnt projects **
 
 - 💬 Ask me about **React,js,java,C,C++,ETc**
 
