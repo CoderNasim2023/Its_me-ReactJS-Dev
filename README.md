@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on *Full Stack Application  developement **
 
-- 🌱 I’m currently learning **React,js,Kotlin ,Java dsa,Databases etc **
+- 🌱 I’m currently learning **React,js,Node JS, Junit testing WEB-3 , Blockchain's, NFTs etc **
 - 🔭 I’m currently pursuing Computer Science from  Maulana Abul Kalam Azad  University of tech, Kolkata.
 
 🌱 I’m learning Data Structures and Algorithms & Full Stack Development.
