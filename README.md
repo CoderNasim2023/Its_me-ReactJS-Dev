@@ -1,6 +1,6 @@
 [# codernasim2003]
 <h1 align="center">Hi Folks 👋, I'm Md Nasim AKhtar</h1>
-<h3 align="center">A passionate frontend, React JS Developer from Kolakta, India</h3>
+<h3 align="center">A passionate  Full Stack  Developer from Kolkata, India</h3>
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsnasim254" target="blank"><img src="https://img.shields.io/twitter/follow/itsnasim254?logo=twitter&style=for-the-badge" alt="itsnasim254" /></a> </p>
 
-- 🔭 I’m currently working on **React JS,Native  app developement **
+- 🔭 I’m currently working on *Full Stack Application  developement **
 
 - 🌱 I’m currently learning **React,js,Kotlin ,Java dsa,Databases etc **
 - 🔭 I’m currently pursuing Computer Science from  Maulana Abul Kalam Azad  University of tech, Kolkata.
